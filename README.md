@@ -1,3 +1,4 @@
+![active-states](https://user-images.githubusercontent.com/20657303/119366218-5c22c700-bcce-11eb-87b2-0f24fe05178c.jpg)
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -28,11 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![Screen shot](./screenshot.![active-states](https://user-images.githubusercontent.com/20657303/119366284-6cd33d00-bcce-11eb-8b43-f3355c596e36.jpg)
 
 
 ### Links
@@ -89,4 +86,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Rahul Rawat](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/raulinc)
+- Frontend Mentor - [@rahul rawat](https://www.frontendmentor.io/profile/raulinc)
